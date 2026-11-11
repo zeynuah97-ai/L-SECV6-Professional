@@ -1,0 +1,12 @@
+;;; Visual LISP make file [V1.0] lsecv6 saved to:[C:/Users/Admin/Desktop/LSECV6_BUILD] at:[11/10/26] 
+(PRV-DEF (:target . "lsecv6.VLX")
+	 (:active-x . T)
+	 (:separate-namespace)
+	 (:protected . T)
+	 (:load-file-list)
+	 (:require-file-list)
+	 (:ob-directory)
+	 (:tmp-directory)
+	 (:optimization . st)
+)
+;; EOF
